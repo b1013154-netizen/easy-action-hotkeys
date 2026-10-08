@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+.DS_Store
+verification/*.png
+verification/native-results/
+verification/render-data/
+verification/packaged-data/
